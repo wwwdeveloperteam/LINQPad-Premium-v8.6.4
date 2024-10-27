@@ -10,6 +10,5 @@ Interoperate with BenchmarkDotNet, xUnit, Rx, MSAL, Excel and more
 Super lightweight — small and fast, with xcopy option
 Standard edition free with no expiry
 
-https://developer.team/dotnet/34931-linqpad-premium-v864.html
 
 # [Download LINQPad Premium v8.6.4](https://developer.team/dotnet/34931-linqpad-premium-v864.html)
